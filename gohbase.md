@@ -18,9 +18,13 @@ Project started on April 25th by Benoit (author of OpenTSDB):
 
 <img src="http://image.slidesharecdn.com/integrationofapachehiveandhbasefinal-120504182226-phpapp02/95/integration-of-hive-and-hbase-8-728.jpg?cb=1336156216" style="height:600px;width:800px;"></img>
 
+source: http://www.slideshare.net/hortonworks/integration-of-hive-and-hbase-12805463
+
 ## 
 
 <img src="http://www.n10k.com/assets/2013-05-29-hbase-for-architects-logdata_high.jpg" style="height:600px;width:800px;"></img>
+
+source: http://www.slideshare.net/hortonworks/integration-of-hive-and-hbase-12805463
 
 # gohbase Architecture
 
